@@ -1,0 +1,6 @@
+{
+  "name": "Trove Technologies",
+  "description": "Modern mobile-first catalog and repair service request website for Trove Technologies in Nairobi, optimized for WhatsApp integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

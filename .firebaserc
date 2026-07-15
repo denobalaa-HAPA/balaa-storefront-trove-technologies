@@ -1,0 +1,20 @@
+{
+  "projects": {
+    "default": "balaa-studios-control-system"
+  },
+  "targets": {
+    "balaa-studios-control-system": {
+      "hosting": {
+        "trove-technologies": [
+          "trove-technologies"
+        ],
+        "santons-shoe-store": [
+          "santons-shoe-store"
+        ],
+        "thrifts-with-d": [
+          "thrifts-with-d"
+        ]
+      }
+    }
+  }
+}
